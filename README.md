@@ -1,1 +1,1 @@
-# JumpGame
+# 2048Game
